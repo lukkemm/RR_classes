@@ -1,0 +1,25 @@
+---
+title: "Best TV Show"
+author: "Lukasz Marchel"
+date: "4/14/2021"
+output: html_document
+---
+
+# The Office
+
+
+
+![](\Users\Luke\Desktop\the office.jpg)
+
+
+
+The TV show first aired in April of 2006 and scored 11.2 million viewers on its debut!
+
+
+
+The viewership then steadily declined of the next few years, with 5.69 million people watching the last episode.
+
+
+## A Basic Statistical Table
+
+

@@ -3,6 +3,21 @@ title: "Exercise 2"
 author: "Wojciech Hardy; Michał Paliński"
 date: "3/21/2021"
 output: html_document
+params:
+  Season:
+    label: "Season:"
+    value: 1
+    input: select
+    choices: [1, 2, 3, 4, 5, 6, 7, 8]
+  Episode:
+    label: "Episode:"
+    value: 1
+    input: numeric
+  Quality:
+    label: "Video Quality:"
+    value: 480p
+    input: radio
+    choices: [480, 720, 1080, 4k]
 ---
 
 
